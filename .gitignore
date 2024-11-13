@@ -1,0 +1,51 @@
+# Ignore arquivos de build
+bin/
+obj/
+
+# Ignore pastas do Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Ignore arquivos de usuário do Visual Studio
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignore arquivos do Rider
+.idea/
+
+# Ignore arquivos de pacotes NuGet
+.nuget/
+packages/
+
+# Ignore arquivos de configuração de publicação
+publish/
+
+# Ignore arquivos de log
+*.log
+
+# Ignore arquivos de cache de dependências do .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore diretórios de testes específicos de framework
+TestResults/
+
+# Ignore os arquivos temporários do Visual Studio Code
+.vscode/
+
+# Ignore arquivos do ReSharper
+_ReSharper.*
+.idea/
+
+# Ignore arquivos temporários do sistema
+Thumbs.db
+Desktop.ini
+
+# Ignore arquivos de configuração de testes específicos
+# (Se você estiver usando o MSTest, NUnit, ou xUnit, esses arquivos podem ser ignorados)
+TestResults/
+*.vspscc
