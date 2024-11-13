@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoanApproval", "LoanApproval.csproj", "{2B2DE936-2540-474E-8310-9BEED7434016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanApproval.Test", "LoanApproval.Test\LoanApproval.Test.csproj", "{039BBBDE-4B63-4264-A352-A2FE35BF01D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B2DE936-2540-474E-8310-9BEED7434016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2DE936-2540-474E-8310-9BEED7434016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2DE936-2540-474E-8310-9BEED7434016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2DE936-2540-474E-8310-9BEED7434016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039BBBDE-4B63-4264-A352-A2FE35BF01D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039BBBDE-4B63-4264-A352-A2FE35BF01D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039BBBDE-4B63-4264-A352-A2FE35BF01D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039BBBDE-4B63-4264-A352-A2FE35BF01D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DCAF17F-FD4C-4F3C-AE2F-550578D4C3B7}
+	EndGlobalSection
+EndGlobal
